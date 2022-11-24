@@ -1,6 +1,3 @@
 DST-PORT,22
 DOMAIN,time-ios.apple.com,DIRECT
 DOMAIN,time.apple.com,DIRECT
-DOMAIN,safebrowsing.urlsec.qq.com,REJECT
-DOMAIN,safebrowsing.googleapis.com,REJECT
-DOMAIN-SUFFIX,safebrowsing.apple,PROXY
